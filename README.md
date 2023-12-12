@@ -33,10 +33,10 @@ encore.
 # Contenu du repositiry:
 
 
-Un notebook de pré-traitement et d'entrainement des modèles.
-Un document des liens kernels 
-Un rapport de synthèse des travaux réalisés
-Une présentation sous forme de diapositives
+- Un notebook de pré-traitement et d'entrainement des modèles.
+- Un document des liens kernels 
+- Un rapport de synthèse des travaux réalisés
+- Une présentation sous forme de diapositives
 
 # Données:
 [Enzymes Novozymes](https://www.kaggle.com/code/loousmane/pr-diction-de-la-stabilit-des-enzymes-novozymes)
