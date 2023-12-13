@@ -10,6 +10,7 @@ particulièrement aux données biologiques, la compétition « Novozymes Enzyme 
 Prediction » (lien ici ) a été choisie.
 
 # Contexte
+
 Novozymes le leader mondial du marché des solutions biologiques, trouve des enzymes dans
 la nature et les optimise pour une utilisation dans l'industrie. Dans l'industrie, les enzymes
 remplacent les produits chimiques et accélèrent les processus de production. Ils aident ces
